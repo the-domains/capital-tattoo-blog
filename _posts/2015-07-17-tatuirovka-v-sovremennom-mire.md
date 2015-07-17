@@ -9,15 +9,15 @@ datePublished: '2015-07-17T21:45:27.010Z'
 title: Татуировка в современном мире
 tags:
   - ''
+dateModified: '2015-07-17T22:52:43.857Z'
+sourcePath: _posts/2015-07-17-tatuirovka-v-sovremennom-mire.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-dateModified: '2015-07-17T21:45:27.010Z'
-sourcePath: _posts/2015-07-17-tatuirovka-v-sovremennom-mire.md
-published: true
 url: tatuirovka-v-sovremennom-mire/index.html
 _type: Article
 _context: 'http://schema.org'
