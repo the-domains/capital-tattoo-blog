@@ -19,7 +19,8 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: shares
-    item: ead2a875-18ad-4828-bfd0-2810bb65dba8
+    item: 45457d1d-074d-46bb-839b-e2e4b4b96b55
     url: tatoo
